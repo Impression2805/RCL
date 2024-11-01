@@ -1,6 +1,6 @@
 # RCL
 PyTorch implementation of our CVPR2024 paper "RCL: Reliable Continual Learning for Unified Failure Detection"
-![](./RCL.png)
+<img src="./RCL.png" alt="RCL Image" width="500"/>
 ### [CVPR 2024] RCL: Reliable Continual Learning for Unified Failure Detectio
 Fei Zhu, Zhen Cheng, Xu-Yao Zhang, Cheng-Lin Liu,  Zhaoxiang Zhang<br>
 
