@@ -30,4 +30,4 @@ A list of papers that studies out-of-distribution (OOD) detection and misclassif
 * <https://github.com/Impression2805/Awesome-Failure-Detection>
 
 ### Contact for issues
-Fei Zhu (zhufei2018@ia.ac.cn)
+Fei Zhu (zhfei2018@gmail.com)
